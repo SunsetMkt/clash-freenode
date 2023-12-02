@@ -7,17 +7,22 @@
 
 ## 常见问题
 
-1. 老朋友，若您之前使用的订阅链接不好用了。
-   
-   答: 请从 [这里](https://freenode.openrunner.net/) 获取新地址。
-
-2. 老朋友，若您 clone 了这个仓库的代码太旧了，请通过 sync 获取最新代码。
-
-3. 新朋友怎么使用？
-
-   答: 请从 [这里](https://freenode.openrunner.net/) 获取新地址。
-
-5. 若访问上述链接失败，请提 ISSUE 让我们知道。
+<details>
+<summary>1. 老朋友，若您之前使用的订阅链接不好用了，怎么办？</summary>
+请从 <a href="https://freenode.openrunner.net/">这里</a> 获取新地址。
+</details>
+<details>
+<summary>2. 老朋友，若您 clone 了这个仓库的代码太旧了，怎么办？</summary>
+请通过 sync 获取最新代码。
+</details>
+<details>
+<summary>3. 新朋友怎么使用？</summary>
+请从 <a href="https://freenode.openrunner.net/">这里</a> 获取新地址。
+</details>
+<details>
+<summary>4. 若访问上述链接失败，怎么办？</summary>
+请在此仓库提 ISSUE 让我们知道。
+</details>
 
 ## 统计
 
